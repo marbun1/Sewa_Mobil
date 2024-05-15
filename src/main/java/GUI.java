@@ -1,6 +1,8 @@
 import javafx.scene.control.*;
 import javafx.scene.layout.*;
 import src.main.java.Car;
+import src.main.java.Rental;
+import src.main.java.User;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
